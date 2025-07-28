@@ -1,4 +1,4 @@
-import MealSearchApp from './components/MealSearchApp.jsx/'
+import MealSearchApp from './Components/MealSearchApp.jsx/'
 import './App.css'
 import './index.css';
 
