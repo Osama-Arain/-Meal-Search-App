@@ -48,3 +48,14 @@ A sleek and responsive React-based application that allows users to search for m
 
 ```bash
 npm install
+
+### 📁  Folder Structure
+
+css
+Copy
+Edit
+src/
+├── Components/
+│   └── MealSearchApp.jsx
+├── App.jsx
+└── main.jsx
