@@ -1,12 +1,50 @@
-# React + Vite
+# 🍽️ Meal Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive React-based application that allows users to search for meals, view ingredients, read cooking instructions, and watch tutorial videos — all powered by [TheMealDB API](https://www.themealdb.com/).
 
-Currently, two official plugins are available:
+![Meal Search App Banner](https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg) <!-- Replace with your own image if you'd like -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔎 **Search Meals** by name (e.g., Chicken, Pasta, etc.)
+- 🧾 **View Ingredients** and exact measurements
+- 📖 **Read Cooking Instructions**
+- 🎥 **Watch Tutorial Videos** via YouTube
+- 🎨 **Modern UI** built with Tailwind CSS
+- 💡 **Lucide Icons** for a clean, intuitive interface
+- 🚀 Built with **React + Vite** for fast performance
+
+---
+
+## 🚀 Live Demo
+
+👉 [**Click here to view live**](#)  
+*(Coming Soon or insert your deployed link)*
+
+---
+
+## 📷 Screenshots
+
+| Search | Meal Detail |
+|--------|-------------|
+| ![Search](https://i.imgur.com/UwNeD7u.png) | ![Detail](https://i.imgur.com/3AZVZrk.png) |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **API:** [TheMealDB](https://www.themealdb.com/)
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 📦 Install Dependencies
+
+```bash
+npm install
