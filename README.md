@@ -2,7 +2,10 @@
 
 A sleek and responsive React-based application that allows users to search for meals, view ingredients, read cooking instructions, and watch tutorial videos — all powered by [TheMealDB API](https://www.themealdb.com/).
 
-![Meal Search App Banner](https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg) <!-- Replace with your own image if you'd like -->
+## 🚀 Live Demo
+
+👉 [**[Click here to view live](https://meal-search-gamma.vercel.app/)**](#)  
+*(Coming Soon or insert your deployed link)*
 
 ---
 
@@ -18,12 +21,7 @@ A sleek and responsive React-based application that allows users to search for m
 
 ---
 
-## 🚀 Live Demo
 
-👉 [**Click here to view live**](#)  
-*(Coming Soon or insert your deployed link)*
-
----
 
 ## 📷 Screenshots
 
