@@ -5,7 +5,7 @@ A sleek and responsive React-based application that allows users to search for m
 ## 🚀 Live Demo
 
 👉 [**[Click here to view live](https://meal-search-gamma.vercel.app/)**](#)  
-*(Coming Soon or insert your deployed link)*
+*(Deployed link)*
 
 ---
 
